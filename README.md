@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 ✨ 未來展望
 
-希望順利從大學畢業
-大學畢業後順利找到好工作
+1.希望順利從大學畢業
+2.大學畢業後順利找到好工作
