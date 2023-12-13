@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 追劇
 料理
 逛街
+
+✨ 未來展望
+
+希望順利從大學畢業
+大學畢業後順利找到好工作
