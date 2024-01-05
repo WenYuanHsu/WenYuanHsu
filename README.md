@@ -32,3 +32,15 @@ Here are some ideas to get you started:
 1.保持每天身體健康與愉悅的心情
 2.希望順利從大學畢業
 3.大學畢業後順利找到好工作
+
+以下題目均是使用 R Studio做出
+4.58 Use Table4, Appendix3, to find the following probabilities for a standard normal random variable Z:
+a. P(0≤Z≤1.2)
+程式碼:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/4ea0e1b5-4022-48e4-b023-4115555f4bf9)
+結果:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/f8b749f8-1cea-4096-92c2-348830145ed5)
+
+
+
+
