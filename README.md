@@ -119,6 +119,15 @@ a. find the value of k that makes f(y) a density function.
 
 ![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/752ab18a-fcc9-426f-8849-b62ed8f3d21b)
 
+b. Applet Exercise Use the applet Beta Probabilities Quantiles to find a humidity value that is exceeded only 5% of the time.
+
+程式碼:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/360c51cc-08f1-41f7-b167-bcbff9c92d2b)
+
+結果:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/c85f4db6-4305-4be4-916d-427fa42c8afd)
+
+
 
 
 
