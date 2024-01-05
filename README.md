@@ -91,8 +91,33 @@ f. Applet Exercise Use the applet Normal Probabilities to obtain P(0≤Z≤1.2).
 
 由上述的結果得知:不論是用程式算出還是用手寫計算，都能得到相同的結果
 
+4.86 Applet Exercise When we discussed theχ²distribution in this section, we presented(with justification to follow in Chapter 6) the fact that if Y is gamma distributed with α=n/2 for some integer n, then 2Y/β has aχ²distribution. In particular, it was stated that when α=1.5 and β=4, W=Y/2 has aχ²distribution with 3 degrees of freedom.
+a. Use the applet Gamma Probabilities Quantiles to find P(Y<3.5).
 
+程式碼:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/acb06b8c-5501-4866-ae8c-014d5bff7437)
 
+結果:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/bae471ba-1f51-4b9d-a037-97f412ccb23e)
+
+b. Use the applet Gamma Probabilities Quantiles to find P(W<1.75).[Hint: Recall that theχ² distribution with v degrees of freedom is just a gamma distribution with α=v/2 and β=2.]
+解:α=1.5, n=3, Y～Γ(3/2,4), W～χ²(3),W=Y/2 ,P(W<1.75)=P(Y/2<1.75)=P(Y<3.5)
+
+程式碼:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/608087f8-d837-4525-9749-8a62ddf102c5)
+
+結果:
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/cc663ad9-61d0-44d4-bfe8-05ac30de7fab)
+
+c. Compare your answers to parts (a) and (b).
+a小題和b小題的結果一樣都是0.3741245。
+
+4.123 The relative humidity Y, when measured at a location, has a probability density function given by
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/79767e45-c85b-4196-a274-39f1f7068658)
+
+a. find the value of k that makes f(y) a density function.
+
+![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/752ab18a-fcc9-426f-8849-b62ed8f3d21b)
 
 
 
