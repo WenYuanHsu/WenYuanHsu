@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 3.大學畢業後順利找到好工作
 
 以下題目均是使用 R Studio做出
+
 4.58 Use Table4, Appendix3, to find the following probabilities for a standard normal random variable Z:
 
 a. P(0≤Z≤1.2)
@@ -85,7 +86,9 @@ f. Applet Exercise Use the applet Normal Probabilities to obtain P(0≤Z≤1.2).
 ![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/53ddae7b-730c-489a-99b7-af816072be7b)
 
 手寫算出:
+
 ![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/9d03f1b0-e2a5-46e3-8d7e-54236b50dcb3)
+
 由上述的結果得知:不論是用程式算出還是用手寫計算，都能得到相同的結果
 
 
