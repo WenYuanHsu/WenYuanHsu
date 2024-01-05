@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 4.58 Use Table4, Appendix3, to find the following probabilities for a standard normal random variable Z:
 
 a. P(0≤Z≤1.2)
+
 程式碼:
 ![image](https://github.com/WenYuanHsu/WenYuanHsu/assets/153167086/4ea0e1b5-4022-48e4-b023-4115555f4bf9)
 
