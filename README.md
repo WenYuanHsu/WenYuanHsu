@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 2.希望順利從大學畢業
 3.大學畢業後順利找到好工作
 
+📫 作品
+
 以下題目均是使用 R Studio做出
 
 4.58 Use Table4, Appendix3, to find the following probabilities for a standard normal random variable Z:
